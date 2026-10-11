@@ -1,0 +1,3 @@
+# Mirrors the runtime dependencies in pyproject.toml for Railway/pip builders.
+python-telegram-bot[rate-limiter]>=22.7,<23
+python-dotenv>=1,<2
